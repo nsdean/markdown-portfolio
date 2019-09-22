@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Sunday
+2. Cheeses
+   1. Cheddar
+   2. Stilton
+
+* Cats
+- Not dogs
